@@ -63,10 +63,10 @@
 </a>
 </p>
 
-<!--Profile view--:)-->
-<p align="center">
+<!--Profile view-->
+<!-- <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nnichar&color=dc143c"/>
-</p>
+</p> -->
 
 <!-- 
 ## 𝗦𝘁𝗮𝘁𝘀
