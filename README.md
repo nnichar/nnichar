@@ -6,7 +6,7 @@
  </p>
 
 ## About Me :
-<p align="center" style="font-size:25px;">
+<p align="center" style="font-size: 30px;">
   <samp>I'm a senior computer engineering student at Mahidol University, Thailand.<br>Who interested in Web Development, Data Science, Machine Learning and AI.<br>And now, I'm .Net Developer Intern at IT One Co.,Ltd.</samp>
 </p>
 
