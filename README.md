@@ -4,7 +4,7 @@
 
 ## About Me :
 <p align="center">
-  <samp style="font-size: 25px;">I'm a senior computer engineering student at Mahidol University, Thailand.<br>Who interested in Web Development, Data Science, Machine Learning and AI.<br>And now, I'm .Net Developer Intern at IT One Co.,Ltd.</samp>
+  <samp style="font-size: 40px;">I'm a senior computer engineering student at Mahidol University, Thailand.<br>Who interested in Web Development, Data Science, Machine Learning and AI.<br>And now, I'm .Net Developer Intern at IT One Co.,Ltd.</samp>
 </p>
 
 ## Programming Languages :
