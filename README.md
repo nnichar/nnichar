@@ -38,11 +38,6 @@
   
   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
   ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  
-<!-- <div align="center">  
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />  
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6g" alt="AdobeXD" />  
-</div> -->
 
 ## Reach me on : 
 <p>
@@ -62,18 +57,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnichar&theme=radical&layout=compact&langs_count=8"/>
 </a>
 </p>
-
-<!--Profile view-->
-<!-- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nnichar&color=dc143c"/>
-</p> -->
-
-<!-- 
-## 𝗦𝘁𝗮𝘁𝘀
-
-<p align="center">
-<a href="https://github.com/nnichar">
-  <img height="190em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nnichar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnichar&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
-</a>
-</p> -->
