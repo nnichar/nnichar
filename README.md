@@ -1,12 +1,9 @@
-<!-- <p 	align="center" style=" font-family:courier; font-size:25px; color:#f75c7e;">
-  Nicharee Chalermsuksri
-</p> -->
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&weight=450&size=25&pause=1000&color=FF229E&center=true&width=435&lines=Hello%2C+There!+👋;I'm+Nicharee+Chalermsuksri;Nice+to+meet+you!" alt="Typing SVG" />
  </p>
 
 ## About Me :
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 100px;">
   <samp>I'm a senior computer engineering student at Mahidol University, Thailand.<br>Who interested in Web Development, Data Science, Machine Learning and AI.<br>And now, I'm .Net Developer Intern at IT One Co.,Ltd.</samp>
 </p>
 
